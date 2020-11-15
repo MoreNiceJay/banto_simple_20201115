@@ -1,2 +1,2 @@
-# banto_simple_20201115
+# bantoSimplePay
 Created with CodeSandbox
